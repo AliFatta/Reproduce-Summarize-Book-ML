@@ -1,9 +1,15 @@
 # Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
-![Book Cover](https://learning.oreilly.com/library/cover/9781492032632/250w/)
+<div align="center">
+  <img src="https://learning.oreilly.com/library/cover/9781492032632/250w/" width="400" alt="Hands-on Machine Learning Book Cover">
+</div>
+
+---
 
 ## 1. Repository Overview
 **Purpose**: This repository serves as a comprehensive guide and practical implementation of the concepts presented in the book **"Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow"** by Aurélien Géron (2nd Edition).
+
+**Reference Book**: [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (Aurélien Géron)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 **Learning Goals**:
 - To bridge the gap between theoretical machine learning concepts and practical coding implementation.
