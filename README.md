@@ -9,8 +9,6 @@
 ## 1. Repository Overview
 **Purpose**: This repository serves as a comprehensive guide and practical implementation of the concepts presented in the book **"Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow"** by Aurélien Géron (2nd Edition).
 
-**Reference Book**: [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (Aurélien Géron)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-
 **Learning Goals**:
 - To bridge the gap between theoretical machine learning concepts and practical coding implementation.
 - To master the use of production-ready Python frameworks: **Scikit-Learn**, **Keras**, and **TensorFlow**.
